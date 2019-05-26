@@ -1,0 +1,10 @@
+<msgs>
+    <msg>
+        <transCode>TransCode1</transCode>
+        <class>com.example.demo.service.system.UserInfo</class>
+    </msg>
+    <msg>
+        <transCode>TransCode2</transCode>
+        <class>com.example.demo.service.system.ModifyPassword</class>
+    </msg>
+</msgs>
